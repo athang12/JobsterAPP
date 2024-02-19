@@ -1,1 +1,5 @@
-
+.env
+node_modules
+README.MD
+swagger.yaml
+Procfile
